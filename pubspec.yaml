@@ -5,7 +5,7 @@ authors:
 description: Dart implementation of Xpath 3
 homepage: http://pschonefeld.github.io/xpath.dart/
 environment:
-  sdk: '>=1.0.0'
+  sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
   xml: any
